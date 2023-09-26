@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaPluginTemplate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaPluginTemplate_jar</output-path>
+    <root id="archive" name="JavaPluginTemplate.jar">
+      <element id="module-output" name="JavaPluginTemplate" />
+    </root>
+  </artifact>
+</component>

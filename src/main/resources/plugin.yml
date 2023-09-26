@@ -1,4 +1,4 @@
-name: SFireWPluginTemplate
+name: JavaPluginTemplate
 version: 1.0.0
 main: com.sfirew.dev.PluginTemplate.Main
 description: SFireW Minecraft Template Plugin
